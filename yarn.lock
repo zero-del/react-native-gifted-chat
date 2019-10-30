@@ -868,10 +868,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@expo/react-native-action-sheet@^3.1.0":
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/@expo/react-native-action-sheet/-/react-native-action-sheet-3.1.0.tgz#f842dd536ce83a847744076d6f31c5902f739d43"
-  integrity sha512-AN2WYjDrmOP2nj611MBmxWsZdCNxIwcMm5XgEMUXC5ZOidTyJ/Dp4VIOylosfHBMLILr2oAzoeqIIt/NjRy+UA==
+"@expo/react-native-action-sheet@^3.3.1":
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/@expo/react-native-action-sheet/-/react-native-action-sheet-3.3.1.tgz#722cfda40a9b1c153b49718f71c6ba19fdc4a8ba"
+  integrity sha512-NUfnZgM3g6ZQjBT1vLrF7+hR/0wBUfLIcNQ6TXqryT3qfYKLWWHvnWQmPsIi6YoKJnpNRULDs2CZ0cxG5KwG4w==
   dependencies:
     "@types/hoist-non-react-statics" "^3.3.1"
     hoist-non-react-statics "^3.3.0"
